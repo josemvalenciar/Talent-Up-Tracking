@@ -1,0 +1,6 @@
+{
+  "name": "Talent Up Panamá - Dashboard",
+  "description": "Dashboard para el seguimiento del progreso en la beca Talent Up Panamá (Ruta Cero).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
